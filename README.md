@@ -4,7 +4,7 @@
 
 ## 🦉 Main information
 
-Little project to set up animated navigation in Html, CSS and Vanilla JavaScript.
+Little project to set up animated navigation in Html, CSS and  JavaScript.
 
 The project goal:
 
